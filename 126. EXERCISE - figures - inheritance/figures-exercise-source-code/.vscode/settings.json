@@ -1,0 +1,10 @@
+{
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true,
+  "python.linting.flake8Args": [
+    "--ignore=W292,W293,W391,W291,E501"
+  ],
+  "cSpell.enabled": false,
+  "code-runner.runInTerminal": true,
+  "python.pythonPath": "C:\\Users\\video\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
+}
