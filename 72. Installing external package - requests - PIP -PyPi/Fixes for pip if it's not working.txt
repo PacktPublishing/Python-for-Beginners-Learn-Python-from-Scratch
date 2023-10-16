@@ -1,0 +1,2 @@
+Fixes for pip if it's not working
+https://appuals.com/fix-pip-is-not-recognized-as-an-internal-or-external-command/

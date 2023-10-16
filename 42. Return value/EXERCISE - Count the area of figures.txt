@@ -1,0 +1,12 @@
+EXERCISE: Count the area of figures
+Create a menu for the user from which he can choose to count the area of figures:
+
+square
+
+rectangle
+
+triangle
+
+trapeze
+
+Remember to use functions.

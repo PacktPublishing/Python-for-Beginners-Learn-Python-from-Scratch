@@ -1,0 +1,7 @@
+Useful Resource Links
+
+Cascadia Font:
+https://github.com/microsoft/cascadia-code
+
+Fira Code Download Link:
+https://github.com/tonsky/FiraCode
